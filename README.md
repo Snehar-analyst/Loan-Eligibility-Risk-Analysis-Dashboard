@@ -1,5 +1,4 @@
 # Loan-Eligibility-Risk-Analysis-Dashboard
-# Loan Eligibility & Risk Analysis Dashboard
 
 ## Project Overview
 
